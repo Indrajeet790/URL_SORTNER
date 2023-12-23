@@ -1,6 +1,6 @@
-# URL_SORTNER
+# URL Shortener 
 
-**Published postman documentation of BookStore Api**
+**Published postman documentation of URL Shortener**
 https://documenter.getpostman.com/view/25896599/2s9Ykrc11G
 
 **Deployed Link**
