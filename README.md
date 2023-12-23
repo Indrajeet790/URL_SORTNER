@@ -42,8 +42,8 @@ https://url-sortner.onrender.com
 
 1. Make sure you have Node.js, Express, and MongoDB installed on your system.
 2. Clone the repository: git clone https:https://github.com/Indrajeet790/URL_SORTNER
-3. Install the dependencies: `npm install`
-4. Start the server: `npm start`
+3. Install the dependencies: npm install
+4. Start the server: npm start
 5. The API will be available at http://localhost:8000.
 
 ## APIS(Accessible While Production)
