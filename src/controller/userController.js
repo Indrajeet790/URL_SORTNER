@@ -1,6 +1,6 @@
 const User = require("../models/userModel");
 const jwt = require("jsonwebtoken");
-const bcrypt =require("bcrypt");
+const bcrypt =require("bcryptjs");
 
 // register user
 module.exports.userSignUp= async (req, res) => {
@@ -17,7 +17,7 @@ module.exports.userSignUp= async (req, res) => {
       await userData.save();
       res
         .status(201)
-        .json({ status: "success", message: "user registered successfully" });
+        .json({ status: "success", message: "user registered successfully" ,userData});
     } else {
       res
         .status(400)

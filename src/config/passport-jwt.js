@@ -26,4 +26,4 @@ passport.use(new JWTStrategy(opts, async function(req, JWTPayload, done) {
     }
 }));
 
-export default passport;
+module.exports=passport;
