@@ -54,8 +54,8 @@ email and password
 - POST `https://url-sortner.onrender.com/url/shortUrl` - get  shorted url
 - GET `https://url-sortner.onrender.com/url/KTBoGqo9j` - Access Original Url
 
-## APIS(Accessible While Development)
-## Endpoints
+
+## Endpoints(Accessible While Development)
 
 - POST `/users/signUp` - User can register itself
 - POST `/users/signIn` - user can signIn
