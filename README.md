@@ -1,7 +1,7 @@
 # URL_SORTNER
 
 **Published postman documentation of BookStore Api**
-`https://documenter.getpostman.com/view/25896599/2s9Ykrc11G`
+https://documenter.getpostman.com/view/25896599/2s9Ykrc11G
 
 **Deployed Link**
 `https://url-sortner.onrender.com`
